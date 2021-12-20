@@ -1,0 +1,21 @@
+{
+    "name": "wojgittheme",
+    "displayName": "WojGitTheme",
+    "description": "",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "WojGitTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/WojGitTheme-color-theme.json"
+            }
+        ]
+    }
+}
