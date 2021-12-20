@@ -1,10 +1,16 @@
 {
     "name": "wojgittheme",
     "displayName": "WojGitTheme",
+    "publisher": "WojNotes",
     "description": "",
+    "icon": "icons/icon.png",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.55.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wojciethecat/WojGitTheme"
     },
     "categories": [
         "Themes"
